@@ -14,6 +14,3 @@ This repository is dedicated to learning and practicing Redux Toolkit with React
 - Global State Management
 - Project Structure
 - Best Practices
-
-## Goal
-To build a strong understanding of Redux Toolkit and apply it in real-world React applications.
