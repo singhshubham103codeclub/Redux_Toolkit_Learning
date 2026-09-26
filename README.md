@@ -1,6 +1,6 @@
 # Redux Toolkit Learning
 
-This repository is dedicated to learning and practicing Redux Toolkit with React. It covers fundamental and advanced concepts of state management through hands-on examples and mini projects.
+This repository is dedicated to learning and practicing Redux Toolkit with React. It covers fundamental and advanced concepts of state management through hands-on examples and mini project
 
 ## Topics Covered
 - Redux Fundamentals
