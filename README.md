@@ -13,4 +13,4 @@ This repository is dedicated to learning and practicing Redux Toolkit with React
 - Async API Calls
 - Global State Management
 - Project Structure
-- Best Practices.
+- Best Practices
